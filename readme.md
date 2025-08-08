@@ -5,3 +5,6 @@
 3.Push Done
 #
 2.push agin
+
+5. Merge 
+6. feature branch
