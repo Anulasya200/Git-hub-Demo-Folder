@@ -5,3 +5,5 @@
 3.Push Done
 #
 2.push agin
+clone
+pull
