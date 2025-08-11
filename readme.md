@@ -8,3 +8,5 @@
 
 5. Merge 
 6. feature branch
+7. git clone
+8. git pull
