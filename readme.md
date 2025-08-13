@@ -5,8 +5,4 @@
 3.Push Done
 #
 2.push agin
-
-5. Merge 
-6. feature branch
-7. git clone
-8. git pull
+3. I am doing got branching
